@@ -6,7 +6,7 @@ Using the application
     Sign Up to create an account
     Login with the created account (you are now online)
     for first time you will not see users list as you are the only user in the system
-    Open another browser (if you are using chrome, just open new incognito tab) and go to http://127.0.0.1:8000
+    Open another browse,a private tab and go to http://127.0.0.1:8000
     Repeat 1, 2 & 3 as many as you want more accounts to be online
     You can send messages to any user in the system either he/she is online or offline
 
